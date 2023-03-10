@@ -1,0 +1,6 @@
+GIT URL: https://github.com/pwalendz/testapp/tree/main/eclipse-workspace/Java%20School/Staging%20Area/Java%20FSD%20Full%20Stack/Piotr%20Walendzik/26169639/Phase%201/Code
+1. open up cmd
+2. MainMenu is the main class
+2. input the following to compile the program "javac com/MainMenu.java"
+3. run the program using "java com.MainMenu"  
+4. it is recommended that you use option 4 to set a file path first
