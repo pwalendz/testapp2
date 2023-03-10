@@ -1,0 +1,3 @@
+GIT URL: https://github.com/pwalendz/testapp2/tree/main/CodeProject1/PiotrWalendzik/26169639/Phase2/Code
+1. this is a maven project
+2. the name of the database is "schoolbus". It needs to be created in mysql as teh project will not create it on its own. 

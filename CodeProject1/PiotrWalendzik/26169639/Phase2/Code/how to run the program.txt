@@ -1,3 +1,0 @@
-GIT URL: https://github.com/pwalendz/testapp/tree/main/eclipse-workspace/Java%20School/Staging%20Area/Java%20FSD%20Full%20Stack/Piotr%20Walendzik/26169639/Phase%202/Code
-1. this is a maven project
-2. the name of the database is "schoolbus". It needs to be created in mysql as teh project will not create it on its own. 
