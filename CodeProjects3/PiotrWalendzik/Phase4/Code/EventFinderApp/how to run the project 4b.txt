@@ -1,0 +1,3 @@
+GIT URL: https://github.com/pwalendz/testapp2/tree/main/CodeProjects3/PiotrWalendzik/Phase4/Code/EventFinderApp
+
+1.	Open command prompt and cd to the directory of the project, the event.json needs to be loaded as it acts as a database.
